@@ -24,7 +24,8 @@
 #     shield: lily58_right
 
 include:
-  - board: raspberry_pi_pico
+  - board: rp2040_adv
     shield: lily58_left
-  - board: raspberry_pi_pico
+  - board: rp2040_adv
     shield: lily58_right
+
